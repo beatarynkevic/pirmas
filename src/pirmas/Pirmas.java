@@ -8,8 +8,8 @@ public class Pirmas {
         
         int suma = 0;
         
-        for (int i = 15; i <= 37; i += 1 ) {
-            suma = suma + i;
+        for (int i = 15; i <= 37; i++ ) {
+            suma += i;
         }
         System.out.println(suma);
 //        int i = 3;
@@ -26,26 +26,6 @@ public class Pirmas {
 //            i = i + 1;
 //        }
         
-        //alt+shift+l
-//        Scanner sc = new Scanner(System.in);
-//        System.out.println("nuo");
-//        int nuo = sc.nextInt();
-//        System.out.println("iki");
-//        int iki = sc.nextInt();
-//        int c = nuo;
-//        int d = iki - nuo + 1; //sito nereik
-//        //while(c<=iki){}
-//        while (nuo <= iki) {
-//            //int i = nuo;
-//            //while(i<=iki){}
-//            while (c<= iki) {
-//                System.out.print(c * nuo + " "); //i*nuo
-//                c++; //i++
-//        }
-//            System.out.println();
-//            nuo++; //c++
-//            c = c-d; //tada sito nereik
-//        }
     }
 }
         
