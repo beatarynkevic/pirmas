@@ -66,6 +66,7 @@ public class Pirmas {
 //  
 //        System.out.println("suma: " + suma);
         
+
 //        int b = 100;
 //        
 //        int a = b = (2 + 8) / 4 * 2;
